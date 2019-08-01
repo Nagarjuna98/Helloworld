@@ -9,3 +9,6 @@
    
    
 <button type="submit">Login</button> <button type="submit">Register</button>
+
+<form action="/register.html" method="get">
+ </form>
