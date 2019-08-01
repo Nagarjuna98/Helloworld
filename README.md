@@ -8,4 +8,9 @@
    <input type="text" placeholder="Enter password" name="psw" required>
    
    
-<button type="submit">Login</button><button type="submit">Register</button>
+<button type="submit">Login</button>
+<button type="submit" formaction="/register.html">Submit to another page</button>
+</form>
+
+
+<button type="submit">Register</button>
