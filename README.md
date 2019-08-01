@@ -6,3 +6,4 @@
     
    <label for="password"><b>Password</b></label>
    <input type="text" placeholder="Enter password" name="psw" required>
+<button type="submit">Login</button><button type="submit">Register</button>
