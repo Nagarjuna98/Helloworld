@@ -9,7 +9,7 @@
    
    
 <button type="submit">Login</button>
-<button type="submit" formaction="/register.html">Submit to another page</button>
+<button type="submit" formaction="/register.html"></button>
 </form>
 
 
