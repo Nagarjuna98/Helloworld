@@ -9,8 +9,8 @@
    
    
 <button type="submit">Login</button>
-<button type="submit" formaction="/register.html"></button>
-</form>
+<button type="submit" formaction="/register.html">
+
 
 
 <button type="submit">Register</button>
